@@ -2,10 +2,15 @@ site_name: My Docs
 
 site_url: https://github.com/MioniMichael/ProvaSito
 
-theme:
-  name: material
+plugins:
+  - search:
+      lang: ['it', 'en']
 
-  nav:
+theme:
+  name: 'material'
+  language: 'it'
+
+nav:
   - Esempi 1: /docs/Pagine/Pagina1.md
   - Esempi 2: /docs/Pagine/Pagina2.md
   - MAIN: /docs/index.md
