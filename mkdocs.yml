@@ -11,6 +11,6 @@ theme:
   language: 'it'
 
 nav:
-  - Esempi 1: /docs/Pagine/Pagina1.md
-  - Esempi 2: /docs/Pagine/Pagina2.md
-  - MAIN: /docs/index.md
+  - Esempi 1: Pagine/Pagina1.md
+  - Esempi 2: Pagine/Pagina2.md
+  - MAIN: index.md
