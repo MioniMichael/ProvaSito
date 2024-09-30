@@ -1,0 +1,7 @@
+Per apportare modifiche eseguire questi comandi
+------------------------------------------------
+|    git add .                                 |
+|    git commit -m "Aggiornamenti del sito"    |
+|    git push                                  |
+|    mkdocs gh-deploy                          |
+------------------------------------------------
