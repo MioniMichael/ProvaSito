@@ -4,3 +4,8 @@ site_url: https://github.com/MioniMichael/ProvaSito
 
 theme:
   name: material
+
+  nav:
+  - Esempi 1: /docs/Pagine/Pagina1.md
+  - Esempi 2: /docs/Pagine/Pagina2.md
+  - MAIN: /docs/index.md
